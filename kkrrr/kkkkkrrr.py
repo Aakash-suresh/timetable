@@ -1,20 +1,3 @@
-# Experiment_Time_Table
-
-## AIM
-To Write a html webpage page to display your timetable.
-
-# ALGORITHM
-### STEP 1
-create a simple table using table tag
-### STEP 2
-Add header row using th tag
-### STEP 3
-Add your timetable
-### STEP 4
-Execute the program
-
-# CODE
-~~~
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
@@ -130,5 +113,3 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 
-~~~
-# OUPUT
