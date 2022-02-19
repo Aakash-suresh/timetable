@@ -110,4 +110,8 @@ Execute the program
 </body>
 </html>
 ~~~
-# OUPUT
+## OUTPUT
+![Output 1](PPP2.png)
+![Output 2](PPP1.png)
+## RESULT:
+Thus, a html webpage is created to display the timetable.
