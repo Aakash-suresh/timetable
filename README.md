@@ -116,14 +116,8 @@ Execute the program
 </body>
 </html>
 ~~~
-<<<<<<< HEAD
 ## OUTPUT
 ![Output 1](PPP2.png)
 ![Output 2](PPP1.png)
 ## RESULT:
 Thus, a html webpage is created to display the timetable.
-=======
-# OUTPUT
-![Github Logo](PPP2.png)
-![Github Logo](PPP1.png)
->>>>>>> 8d41354ede16f7f95d104ff20feb1116a59058d6
